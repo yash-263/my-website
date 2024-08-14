@@ -1,8 +1,20 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-.paras{
-    border: 2px solid red;
-    padding: 5px 10px ;
+.welcome {
+  border: 2px solid red;
+  padding: 5px 10px;
+  background-color: aqua;
+}
+.recipename {
+  background-color: aquamarine;
+}
+.book {
+  padding: 10px;
+  margin: 10px;
+}
+.recipe {
+  padding: 10px;
+  margin: 10px;
 }
