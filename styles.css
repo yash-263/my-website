@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.paras{
+    border: 2px solid red;
+    padding: 5px 10px ;
+}
